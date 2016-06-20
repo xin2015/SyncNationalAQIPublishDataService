@@ -81,7 +81,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="log4net.config" />
-    <None Include="Properties\PublishProfiles\SyncNationalAQIPublishDataService.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
